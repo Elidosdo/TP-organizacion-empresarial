@@ -19,7 +19,6 @@ El programa permite:
 - calcular ventas totales de una empresa
 - identificar el producto más vendido de una empresa
 - generar un gráfico de ventas
-- guardar resultados automáticamente
 
 La estructura del repositorio es la siguiente:
 - datos/: contiene el archivo CSV
@@ -29,5 +28,5 @@ La estructura del repositorio es la siguiente:
 como ejecutar el programa:
 1. Abrir Google Colab
 2. Clonar el repositorio
-3. Ejecutar el archivo: python scripts/analisis_ventas.py
+3. Ejecutar el archivo: python scripts/analisis_de_ventas.py
 4. Revisar los resultados generados en la carpeta resultados/
