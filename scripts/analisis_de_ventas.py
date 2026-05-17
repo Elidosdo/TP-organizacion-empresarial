@@ -30,7 +30,7 @@ ventas_productos = {} # Creamos diccionario para conocer el producto mas vendido
 for i in range(len(productos)): # Recorremos con bucle for la lista productos
 
     producto = productos[i]
-    cantidad = cantidades[i] # Creamos variables locales para poder iniciar estructuras condicionales 
+    cantidad = cantidades[i] # Creamos variables locales para poder iniciar estructuras condicionales
 
     if producto in ventas_productos: # Analizamos si el producto ya esta en el diccionario
         ventas_productos[producto] += cantidad # Si esta sumamos la cantidad correspondiente al producto
