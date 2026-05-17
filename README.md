@@ -1,5 +1,5 @@
 
-- Elías García Infante  
+- Elías García Infante
 
 - Organización Empresarial - UTN TUP
 
